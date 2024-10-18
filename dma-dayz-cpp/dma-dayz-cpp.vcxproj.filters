@@ -57,6 +57,9 @@
     <ClCompile Include="DayZ\Maps\Deerisle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DayZ\Maps\Sakhal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DayZ\Structs\ArmaString.h">
@@ -147,6 +150,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DayZ\Maps\Deerisle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DayZ\Maps\Sakhal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

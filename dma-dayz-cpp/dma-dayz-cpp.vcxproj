@@ -150,6 +150,7 @@
     <ClCompile Include="DayZ\Maps\Livonia.cpp" />
     <ClCompile Include="DayZ\Maps\Lux.cpp" />
     <ClCompile Include="DayZ\Maps\Namalsk.cpp" />
+    <ClCompile Include="DayZ\Maps\Sakhal.cpp" />
     <ClCompile Include="dma-dayz-cpp.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -166,6 +167,7 @@
     <ClInclude Include="DayZ\Maps\Livonia.h" />
     <ClInclude Include="DayZ\Maps\Lux.h" />
     <ClInclude Include="DayZ\Maps\Namalsk.h" />
+    <ClInclude Include="DayZ\Maps\Sakhal.h" />
     <ClInclude Include="DayZ\Structs\ArmaString.h" />
     <ClInclude Include="DayZ\Structs\EntityFilterList.h" />
     <ClInclude Include="DayZ\Structs\Camera.h" />
