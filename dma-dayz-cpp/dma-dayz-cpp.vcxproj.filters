@@ -60,6 +60,9 @@
     <ClCompile Include="DayZ\Maps\Sakhal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DayZ\Maps\Banov.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DayZ\Structs\ArmaString.h">
@@ -140,12 +143,6 @@
     <ClInclude Include="DayZ\Maps\DeadFall.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DayZ\Maps\Alteria.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="DayZ\Maps\Lux.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="DayZ\Maps\Esseker.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -153,6 +150,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DayZ\Maps\Sakhal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DayZ\Maps\Banov.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DayZ\Maps\Alteria.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DayZ\Maps\Lux.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

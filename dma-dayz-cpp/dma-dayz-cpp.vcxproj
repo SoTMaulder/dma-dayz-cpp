@@ -143,6 +143,7 @@
     <ClCompile Include="DayZ\DayZMem\RadarAdapter\RadarAdapter.cpp" />
     <ClCompile Include="DayZ\DayzUtil.cpp" />
     <ClCompile Include="DayZ\Maps\Alteria.cpp" />
+    <ClCompile Include="DayZ\Maps\Banov.cpp" />
     <ClCompile Include="DayZ\Maps\ChernarusPlus.cpp" />
     <ClCompile Include="DayZ\Maps\DeadFall.cpp" />
     <ClCompile Include="DayZ\Maps\Deerisle.cpp" />
@@ -160,6 +161,7 @@
     <ClInclude Include="DayZ\DayZMem\RadarAdapter\RadarAdapter.h" />
     <ClInclude Include="DayZ\DayzUtil.h" />
     <ClInclude Include="DayZ\Maps\Alteria.h" />
+    <ClInclude Include="DayZ\Maps\Banov.h" />
     <ClInclude Include="DayZ\Maps\ChernarusPlus.h" />
     <ClInclude Include="DayZ\Maps\DeadFall.h" />
     <ClInclude Include="DayZ\Maps\Deerisle.h" />
