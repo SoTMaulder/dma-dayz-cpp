@@ -18,7 +18,7 @@ void DayZ::Mem::fetchBaseAddresses() {
 
 	this->worldAddress = baseModule.pvmEntry->vaBase + 0x41CFB68;
 	std::cout << "World Address: 0x" << std::hex << this->worldAddress << std::endl;
-	this->networkManagerAddress = baseModule.pvmEntry->vaBase + 0xF7BB20;
+	this->networkManagerAddress = baseModule.pvmEntry->vaBase + 0xF7BAD0;
 	std::cout << "NetworkManager Address: 0x" << std::hex << this->networkManagerAddress << std::endl;
 
 };
