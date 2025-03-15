@@ -1,2 +1,2 @@
-1. Download Maps @ https://mega.nz/file/5uMD3LwS#9yuYntYQJ45-No9GuwJvLHBwaeb42col_GUEk0l1Lpc
+1. Download Maps @ https://www.mediafire.com/file/rdl3bs5lc8jk1ym/mapcontent.rar/file 3/14/25
 2. Place map images in mapcontent folder
